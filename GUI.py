@@ -58,7 +58,7 @@ text_label.grid(row=0, column=0, padx=40, pady= 10)
 
 text= Text(root, font=('courier 12 bold'),bg="#356696")
 text.grid(row=2,column=0)
-text.place(x=100,y=375,width=375,height=100)
+text.place(x=100,y=200,width=375,height=200)
 
 #entry widget
 
